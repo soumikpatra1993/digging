@@ -1,0 +1,15 @@
+Rails commands:
+1.rails new myapp
+2.rails g controller post
+3.rails server
+
+Rake commands:
+
+1. rake routes
+2.rake db:migrate
+3.rake about
+bundle commands: 
+
+1. bundle install
+2. bundle update
+
